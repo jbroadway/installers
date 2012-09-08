@@ -11,6 +11,7 @@ package type.
 * CakePHP 2+    `cakephp-`
 * CodeIgniter   `codeigniter-`
 * Drupal        `drupal-`
+* Elefant       `elefant-`
 * FuelPHP       `fuelphp-`
 * Joomla        `joomla-`
 * Kohana        `kohana-`
@@ -68,6 +69,9 @@ So submit your packages to [packagist.org](http://packagist.org)!
     * **drupal-theme**
     * drupal-profile
     * drupal-drush
+* Elefant
+    * elefant-app
+    * elefant-theme
 * FuelPHP
     * fuelphp-module
 * Joomla
