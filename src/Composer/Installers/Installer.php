@@ -15,6 +15,7 @@ class Installer extends LibraryInstaller
         'cakephp'      => 'CakePHPInstaller',
         'codeigniter'  => 'CodeIgniterInstaller',
         'drupal'       => 'DrupalInstaller',
+        'elefant'      => 'ElefantInstaller',
         'fuelphp'      => 'FuelPHPInstaller',
         'joomla'       => 'JoomlaInstaller',
         'kohana'       => 'KohanaInstaller',
